@@ -1,0 +1,61 @@
+{
+    "name": "",
+    "difficulty": {
+        "Easy": {
+            "Sloan created hexagonal figure": {
+                "attempts": [
+                    {
+                        "success": true,
+                        "failed_word": "",
+                        "duration": 13.924,
+                        "timestamp": 1705395128.7380662
+                    }
+                ]
+            },
+            "Functional magnetic resonance imaging": {
+                "attempts": [
+                    {
+                        "success": true,
+                        "failed_word": "",
+                        "duration": 14.011,
+                        "timestamp": 1705395146.0841532
+                    },
+                    {
+                        "success": true,
+                        "failed_word": "",
+                        "duration": 12.686,
+                        "timestamp": 1705395161.9946628
+                    }
+                ]
+            },
+            "Expert systems reproduce the performance of human experts": {
+                "attempts": [
+                    {
+                        "success": false,
+                        "failed_word": "performance",
+                        "duration": 11.851,
+                        "timestamp": 1705395260.8088553
+                    }
+                ]
+            }
+        },
+        "Medium": {
+            "Simple reflex agents are not cognitive systems": {
+                "attempts": [
+                    {
+                        "success": false,
+                        "failed_word": "systems",
+                        "duration": 14.241,
+                        "timestamp": 1705395219.6958387
+                    },
+                    {
+                        "success": false,
+                        "failed_word": "not",
+                        "duration": 11.303,
+                        "timestamp": 1705395234.1088789
+                    }
+                ]
+            }
+        }
+    }
+}

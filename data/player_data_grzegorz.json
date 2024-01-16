@@ -1,0 +1,185 @@
+{
+    "name": "",
+    "difficulty": {
+        "Easy": {
+            "Cognitive science is an inherently interdisciplinary enterprise.": {
+                "attempts": [
+                    {
+                        "success": false,
+                        "failed_word": "enterprise.",
+                        "duration": 12.452,
+                        "timestamp": 1705389829.7666698
+                    },
+                    {
+                        "success": false,
+                        "failed_word": "enterprise.",
+                        "duration": 12.602,
+                        "timestamp": 1705389845.5856955
+                    },
+                    {
+                        "success": false,
+                        "failed_word": "is",
+                        "duration": 11.81,
+                        "timestamp": 1705389860.5474033
+                    },
+                    {
+                        "success": false,
+                        "failed_word": "an",
+                        "duration": 11.814,
+                        "timestamp": 1705389875.513081
+                    },
+                    {
+                        "success": false,
+                        "failed_word": "",
+                        "duration": 15.722,
+                        "timestamp": 1705389894.7125275
+                    },
+                    {
+                        "success": false,
+                        "failed_word": "enterprise.",
+                        "duration": 12.827,
+                        "timestamp": 1705389910.775419
+                    },
+                    {
+                        "success": false,
+                        "failed_word": "enterprise.",
+                        "duration": 11.87,
+                        "timestamp": 1705389925.8041308
+                    },
+                    {
+                        "success": false,
+                        "failed_word": "enterprise.",
+                        "duration": 12.615,
+                        "timestamp": 1705389941.6375937
+                    },
+                    {
+                        "success": false,
+                        "failed_word": "interdisciplinary",
+                        "duration": 12.087,
+                        "timestamp": 1705389956.8987536
+                    },
+                    {
+                        "success": false,
+                        "failed_word": "an",
+                        "duration": 12.856,
+                        "timestamp": 1705389972.993855
+                    },
+                    {
+                        "success": false,
+                        "failed_word": "inherently",
+                        "duration": 11.851,
+                        "timestamp": 1705389988.000511
+                    },
+                    {
+                        "success": false,
+                        "failed_word": "is",
+                        "duration": 11.364,
+                        "timestamp": 1705390186.2950172
+                    },
+                    {
+                        "success": true,
+                        "failed_word": "",
+                        "duration": 16.519,
+                        "timestamp": 1705390206.359654
+                    }
+                ]
+            },
+            "fMRI measures blood oxygentaion": {
+                "attempts": [
+                    {
+                        "success": true,
+                        "failed_word": "",
+                        "duration": 11.317,
+                        "timestamp": 1705390220.7864535
+                    },
+                    {
+                        "success": true,
+                        "failed_word": "",
+                        "duration": 12.205,
+                        "timestamp": 1705391554.8694134
+                    }
+                ]
+            },
+            "Central processing is Quinean": {
+                "attempts": [
+                    {
+                        "success": true,
+                        "failed_word": "",
+                        "duration": 12.345,
+                        "timestamp": 1705390236.3314075
+                    }
+                ]
+            },
+            "fMRI signal correlates with neuronal input": {
+                "attempts": [
+                    {
+                        "success": false,
+                        "failed_word": "correlates",
+                        "duration": 11.549,
+                        "timestamp": 1705391569.5468628
+                    },
+                    {
+                        "success": false,
+                        "failed_word": "correlates",
+                        "duration": 11.392,
+                        "timestamp": 1705391584.0578125
+                    }
+                ]
+            }
+        },
+        "Medium": {
+            "Cognitive science is an inherently interdisciplinary enterprise.": {
+                "attempts": [
+                    {
+                        "success": false,
+                        "failed_word": "Empty",
+                        "duration": 11.706,
+                        "timestamp": 1705390011.742781
+                    },
+                    {
+                        "success": false,
+                        "failed_word": "an",
+                        "duration": 13.253,
+                        "timestamp": 1705390028.267887
+                    },
+                    {
+                        "success": false,
+                        "failed_word": "Empty",
+                        "duration": 13.222,
+                        "timestamp": 1705390044.7607787
+                    },
+                    {
+                        "success": false,
+                        "failed_word": "an",
+                        "duration": 12.079,
+                        "timestamp": 1705390060.0139647
+                    }
+                ]
+            }
+        },
+        "Hard": {
+            "Neural networks loosely remind biological neurons": {
+                "attempts": [
+                    {
+                        "success": false,
+                        "failed_word": "kenrstow",
+                        "duration": 12.719,
+                        "timestamp": 1705390094.29842
+                    },
+                    {
+                        "success": false,
+                        "failed_word": "biological",
+                        "duration": 13.649,
+                        "timestamp": 1705390111.2536259
+                    },
+                    {
+                        "success": false,
+                        "failed_word": "nrsenuo",
+                        "duration": 15.333,
+                        "timestamp": 1705390130.031138
+                    }
+                ]
+            }
+        }
+    }
+}
