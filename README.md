@@ -26,7 +26,7 @@ To play Semantic Square, follow these steps:
 
 1. Clone the repository to your local machine:
    ```
-   git clone https://github.com/your-username/semantic-square.git
+   git clone https://github.com/gdziubcio/Memory-Game-.git
    ```
 
 2. Install the required dependencies:
@@ -36,7 +36,7 @@ To play Semantic Square, follow these steps:
 
 3. Run the game:
    ```
-   python semantic_square.py
+   python SemanticSquare.py
    ```
 
 ## Contribution
